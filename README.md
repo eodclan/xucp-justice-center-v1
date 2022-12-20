@@ -2,8 +2,6 @@
 
 Edition: Pro V1.0 - Lifetime Version
 
-Price: 59,99€ - with 1 month free updates!
-
 Demopage: https://xucp-justice.derstr1k3r.de/
 
 Prerequisite for using the xUCP Justice Center Pro V1.0:
